@@ -1,0 +1,5 @@
+{
+  "name": "IT Department Management System",
+  "description": "A comprehensive system to manage all departmental activities including students, faculty, academics, and events, with role-based access and an AI-powered chatbot for assistance.",
+  "requestFramePermissions": []
+}
